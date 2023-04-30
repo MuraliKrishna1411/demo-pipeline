@@ -18,3 +18,15 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/MuraliKrishna1411/demo-pipeline.git
 git push -u origin main -->
+
+
+
+
+<!-- # Step 1  to create virtual env
+# From terminal -- new terminal -- command prompt -- use conda activate base
+# if conda is not recognised --- then we use view --- command pallet --- python: Select Interpreter --- select base
+# now we can create new env use  -- ## conda create -p venv python=3.8 -y ##
+# This will create virtual env in current folder
+# if we want to create virtual env in standard then use -n instead of -p
+# then use this command conda activate and folder location to activate new vir env  ## conda activate I:\Projects\demo-pipeline\venv##
+# -->
