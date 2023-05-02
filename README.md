@@ -20,6 +20,9 @@ git remote add origin https://github.com/MuraliKrishna1411/demo-pipeline.git
 git push -u origin main -->
 
 
+''' pip install -r requirements.txt'''
+
+
 
 
 <!-- # Step 1  to create virtual env
